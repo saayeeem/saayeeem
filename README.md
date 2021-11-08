@@ -29,3 +29,6 @@ I am very much curious about tech world so I try to explore tech world as much a
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saayeeem&show_icons=true&locale=en" alt="sayem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saayeeem&" alt="saayeeem" /></p>
+<a href="https://github.com/yeasin-hossain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saayeeem&theme=light&hide_langs_below=1" />
+</a>
