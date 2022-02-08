@@ -9,14 +9,16 @@ I am very much curious about tech world so I try to explore tech world as much a
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
 
 - 🌐 &nbsp;
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
-  ![PHP](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ 
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
